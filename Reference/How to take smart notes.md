@@ -1,7 +1,7 @@
-Created: 2022-10-14 07:10
-Author: Ahrens
-Tags: 
-Links: [Ahrens-How to Take Smart Notes](Books/Ahrens-How to Take Smart Notes.md)
+Created: 2022-10-14 07:10  
+Author: Ahrens  
+Tags:  
+Links: [Ahrens-How to Take Smart Notes](Books/Ahrens-How%20to%20Take%20Smart%20Notes.md)
 
 ## Key Takeaways
 Always take notes when reading non-fiction text. 
